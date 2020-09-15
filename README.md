@@ -184,7 +184,7 @@ const myArray = [];
 typeof myArray;
 //"object"
 
-const myString = "dope af";
+const myString = "I am a string!";
 typeof(myString)
 //"string"
 
