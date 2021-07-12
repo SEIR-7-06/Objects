@@ -32,13 +32,10 @@ Objects use curly braces, just like code blocks. However instead of semicolons b
 
 ```javascript
 const skateboard = {
-  wheels:    4, 
+  wheels: 4, 
   gripColor: "black", 
-  company:   "Toy Machine",
-  graphic:   "monster graphic",
-  kickflip() {
-    console.log("SIIIICK DOOD");
-  }
+  company: "Toy Machine",
+  graphic: "monster graphic"
 };
 ```
 
